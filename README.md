@@ -61,6 +61,10 @@ for entry in entries:
 - `tests/` pytest suite.
 - `docs/` usage references.
 
+## Repository
+
+Source and issues: https://github.com/Axelgustavlindstrom/cfgdiff
+
 ## Tags / keywords
 
 config, diff, json, yaml, toml, ini, cli, comparison
