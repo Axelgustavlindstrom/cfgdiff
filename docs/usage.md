@@ -20,3 +20,12 @@ Each line is `<path>: <message>`.
 - `0` — identical configurations
 - `1` — differences found
 - `2` — bad input, missing file, or unsupported format
+
+## CLI entry points
+
+The package exposes two invocation paths:
+
+- Installed command: `cfgdiff left.ini right.ini`
+- Module invocation: `python -m cfgdiff left.ini right.ini`
+
+Both paths share the same exit codes and output format.
