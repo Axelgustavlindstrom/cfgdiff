@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from cfgdiff.diff import DiffEntry, diff_files, load_config, normalize_value
+from cfgdiff.diff import diff_files, load_config, normalize_value
 
 
 def test_normalize_value_preserves_scalar_types():

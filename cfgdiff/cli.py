@@ -4,7 +4,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from cfgdiff.diff import DiffEntry, diff_files
+from cfgdiff.diff import diff_files
 
 
 def parse_args(argv: list[str]) -> argparse.Namespace:

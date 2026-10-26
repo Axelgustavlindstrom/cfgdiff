@@ -9,7 +9,7 @@ description = "Compare configuration/schema style declarations between JSON, YAM
 readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
-authors = [{name = "ProjectCreationAgent"}]
+authors = [{name = "Axel Gustav Lindström", email = "292675736+Axelgustavlindstrom@users.noreply.github.com"}]
 keywords = ["config", "diff", "json", "yaml", "toml", "ini"]
 classifiers = [
   "Development Status :: 3 - Alpha",
